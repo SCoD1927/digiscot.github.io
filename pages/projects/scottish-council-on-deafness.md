@@ -18,7 +18,7 @@ permalink: /projects/scottish-council-on-deafness/
 
 ### Project description
 
-Developing SCoD's digital infrastructure to facilitate better communication with SCoD Members and to help develop and grow support for the deaf sector, particularly with regards to digital skills. 
+Developing SCoD's digital infrastructure to facilitate better communication with SCoD Members and to help develop and grow support for the deaf sector, particularly with regards to digital skills. . 
 
 
 ## Project milestones
