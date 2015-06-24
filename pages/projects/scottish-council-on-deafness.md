@@ -61,6 +61,8 @@ In terms of outputs we delivered A, B and C.
 In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
 
 ### Lessons learned
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">TFN&#39;s families &amp; young people bulletin is out tomorrow. Sign up at <a href="http://t.co/PCosEnh1rx">http://t.co/PCosEnh1rx</a> <a href="http://t.co/HVSGTuFifV">pic.twitter.com/HVSGTuFifV</a></p>&mdash; Third Force News (@ThirdForceNews) <a href="https://twitter.com/ThirdForceNews/status/613697111192924160">June 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Things that worked well:
 
